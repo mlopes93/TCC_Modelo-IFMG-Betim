@@ -1,0 +1,911 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{ASM2004}{book}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=cbc9c9a4a7ae67f98ec38257c052c65c}{%
+           family={Altan},
+           familyi={A\bibinitperiod},
+           given={Taylan},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cf63393459c05e89de9ff6110415f892}{%
+           family={Ngaile},
+           familyi={N\bibinitperiod},
+           given={Gracious},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8f4ea9516f632db0c48ac5099818083c}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Gangshu},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Materials Park}%
+      }
+      \list{publisher}{1}{%
+        {ASM International}%
+      }
+      \strng{namehash}{23babf800a216507e799f7b4cbd48170}
+      \strng{fullhash}{23babf800a216507e799f7b4cbd48170}
+      \strng{fullhashraw}{23babf800a216507e799f7b4cbd48170}
+      \strng{bibnamehash}{23babf800a216507e799f7b4cbd48170}
+      \strng{authorbibnamehash}{23babf800a216507e799f7b4cbd48170}
+      \strng{authornamehash}{23babf800a216507e799f7b4cbd48170}
+      \strng{authorfullhash}{23babf800a216507e799f7b4cbd48170}
+      \strng{authorfullhashraw}{23babf800a216507e799f7b4cbd48170}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Cold And Hot Forging: Fundamentals And Applications}
+      \field{year}{2004}
+    \endentry
+    \entry{AlvesFilho2013}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2b630c3ca26ee311ecf7803c6f7a5454}{%
+           family={{Alves Filho}},
+           familyi={A\bibinitperiod},
+           given={Avelino},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {São Paulo, SP}%
+      }
+      \list{publisher}{1}{%
+        {Érica}%
+      }
+      \strng{namehash}{2b630c3ca26ee311ecf7803c6f7a5454}
+      \strng{fullhash}{2b630c3ca26ee311ecf7803c6f7a5454}
+      \strng{fullhashraw}{2b630c3ca26ee311ecf7803c6f7a5454}
+      \strng{bibnamehash}{2b630c3ca26ee311ecf7803c6f7a5454}
+      \strng{authorbibnamehash}{2b630c3ca26ee311ecf7803c6f7a5454}
+      \strng{authornamehash}{2b630c3ca26ee311ecf7803c6f7a5454}
+      \strng{authorfullhash}{2b630c3ca26ee311ecf7803c6f7a5454}
+      \strng{authorfullhashraw}{2b630c3ca26ee311ecf7803c6f7a5454}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{6}
+      \field{title}{Elementos Finitos: A Base da Tecnologia CAE}
+      \field{year}{2013}
+    \endentry
+    \entry{ASTM29}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=98d180da27d97e263c9b4e2560091ebc}{%
+           family={{American Society for Testing and Materials}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {West Conshohocken}%
+      }
+      \strng{namehash}{98d180da27d97e263c9b4e2560091ebc}
+      \strng{fullhash}{98d180da27d97e263c9b4e2560091ebc}
+      \strng{fullhashraw}{98d180da27d97e263c9b4e2560091ebc}
+      \strng{bibnamehash}{98d180da27d97e263c9b4e2560091ebc}
+      \strng{authorbibnamehash}{98d180da27d97e263c9b4e2560091ebc}
+      \strng{authornamehash}{98d180da27d97e263c9b4e2560091ebc}
+      \strng{authorfullhash}{98d180da27d97e263c9b4e2560091ebc}
+      \strng{authorfullhashraw}{98d180da27d97e263c9b4e2560091ebc}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{ASTM A29/A29M - Standard specification for steel bars, carbon and alloy, hot-wrought, general requirements for}
+      \field{type}{techreport}
+      \field{year}{2015}
+    \endentry
+    \entry{ASMEB3026}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5ba344ec57814a8a4e387a7f67897733}{%
+           family={{American Society of Mechanical Engineers}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \strng{namehash}{5ba344ec57814a8a4e387a7f67897733}
+      \strng{fullhash}{5ba344ec57814a8a4e387a7f67897733}
+      \strng{fullhashraw}{5ba344ec57814a8a4e387a7f67897733}
+      \strng{bibnamehash}{5ba344ec57814a8a4e387a7f67897733}
+      \strng{authorbibnamehash}{5ba344ec57814a8a4e387a7f67897733}
+      \strng{authornamehash}{5ba344ec57814a8a4e387a7f67897733}
+      \strng{authorfullhash}{5ba344ec57814a8a4e387a7f67897733}
+      \strng{authorfullhashraw}{5ba344ec57814a8a4e387a7f67897733}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{ASME B30.26: Rigging hardware}
+      \field{type}{techreport}
+      \field{year}{2015}
+    \endentry
+    \entry{ASM1990}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e355300317c0a0c98756443ba1f2859f}{%
+           family={{ASM International}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Materials Park}%
+      }
+      \list{publisher}{1}{%
+        {ASM International}%
+      }
+      \strng{namehash}{e355300317c0a0c98756443ba1f2859f}
+      \strng{fullhash}{e355300317c0a0c98756443ba1f2859f}
+      \strng{fullhashraw}{e355300317c0a0c98756443ba1f2859f}
+      \strng{bibnamehash}{e355300317c0a0c98756443ba1f2859f}
+      \strng{authorbibnamehash}{e355300317c0a0c98756443ba1f2859f}
+      \strng{authornamehash}{e355300317c0a0c98756443ba1f2859f}
+      \strng{authorfullhash}{e355300317c0a0c98756443ba1f2859f}
+      \strng{authorfullhashraw}{e355300317c0a0c98756443ba1f2859f}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{10}
+      \field{title}{Metals handbook. Vol. 1: Properties and selection: irons, steels, and high-performance alloys}
+      \field{year}{1990}
+    \endentry
+    \entry{NBR13545}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=38a912c39deb03f17ea4697c1f80c809}{%
+           family={{Associação Brasileira de Normas Técnicas}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Rio de Janeiro}%
+      }
+      \strng{namehash}{38a912c39deb03f17ea4697c1f80c809}
+      \strng{fullhash}{38a912c39deb03f17ea4697c1f80c809}
+      \strng{fullhashraw}{38a912c39deb03f17ea4697c1f80c809}
+      \strng{bibnamehash}{38a912c39deb03f17ea4697c1f80c809}
+      \strng{authorbibnamehash}{38a912c39deb03f17ea4697c1f80c809}
+      \strng{authornamehash}{38a912c39deb03f17ea4697c1f80c809}
+      \strng{authorfullhash}{38a912c39deb03f17ea4697c1f80c809}
+      \strng{authorfullhashraw}{38a912c39deb03f17ea4697c1f80c809}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{NBR 13545: Movimentação de cargas - Manilhas}
+      \field{type}{techreport}
+      \field{year}{1999}
+    \endentry
+    \entry{Azevedo2003}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=783488c805157716d33b1b0038e609a4}{%
+           family={Azevedo},
+           familyi={A\bibinitperiod},
+           given={Alvaro\bibnamedelimb Ferreira\bibnamedelima Marques},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Porto}%
+      }
+      \list{publisher}{1}{%
+        {Faculdade de Engenharia da Universidade do Porto}%
+      }
+      \strng{namehash}{783488c805157716d33b1b0038e609a4}
+      \strng{fullhash}{783488c805157716d33b1b0038e609a4}
+      \strng{fullhashraw}{783488c805157716d33b1b0038e609a4}
+      \strng{bibnamehash}{783488c805157716d33b1b0038e609a4}
+      \strng{authorbibnamehash}{783488c805157716d33b1b0038e609a4}
+      \strng{authornamehash}{783488c805157716d33b1b0038e609a4}
+      \strng{authorfullhash}{783488c805157716d33b1b0038e609a4}
+      \strng{authorfullhashraw}{783488c805157716d33b1b0038e609a4}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{Acesso em: 09 de maio de 2025}
+      \field{title}{Método dos Elementos Finitos}
+      \field{year}{2003}
+      \verb{urlraw}
+      \verb https://www.alvaroazevedo.com/publications/books/livro_mef_aa_1ed/doc/livro_mef_aa.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.alvaroazevedo.com/publications/books/livro_mef_aa_1ed/doc/livro_mef_aa.pdf
+      \endverb
+    \endentry
+    \entry{Beer2014}{book}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=0f05536a7fa0fc388ebd776ee0d3ca6e}{%
+           family={Beer},
+           familyi={B\bibinitperiod},
+           given={Ferdinand\bibnamedelima P.},
+           giveni={F\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=629e5542953b86197f046d58410cc647}{%
+           family={E.\bibnamedelimi Russell\bibnamedelima Johnston},
+           familyi={E\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={Jr.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7741c5ec5f36029ed71445ad6fc3975a}{%
+           family={DeWolf},
+           familyi={D\bibinitperiod},
+           given={John\bibnamedelima T.},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=57979741f1de9127170cb199630ff4bc}{%
+           family={Mazurek},
+           familyi={M\bibinitperiod},
+           given={David.\bibnamedelimi F.},
+           giveni={D\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {McGraw-Hill Education}%
+      }
+      \strng{namehash}{9a7dc5a7bcc0f4b6e8cf023eed3f019e}
+      \strng{fullhash}{ebbf34454ae6efbe4955651be98d197c}
+      \strng{fullhashraw}{ebbf34454ae6efbe4955651be98d197c}
+      \strng{bibnamehash}{ebbf34454ae6efbe4955651be98d197c}
+      \strng{authorbibnamehash}{ebbf34454ae6efbe4955651be98d197c}
+      \strng{authornamehash}{9a7dc5a7bcc0f4b6e8cf023eed3f019e}
+      \strng{authorfullhash}{ebbf34454ae6efbe4955651be98d197c}
+      \strng{authorfullhashraw}{ebbf34454ae6efbe4955651be98d197c}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{7}
+      \field{title}{Mechanics of Materials}
+      \field{year}{2014}
+    \endentry
+    \entry{NR11}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aa43becf0d21463be7540bf3b40bf243}{%
+           family={Brasil},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{aa43becf0d21463be7540bf3b40bf243}
+      \strng{fullhash}{aa43becf0d21463be7540bf3b40bf243}
+      \strng{fullhashraw}{aa43becf0d21463be7540bf3b40bf243}
+      \strng{bibnamehash}{aa43becf0d21463be7540bf3b40bf243}
+      \strng{authorbibnamehash}{aa43becf0d21463be7540bf3b40bf243}
+      \strng{authornamehash}{aa43becf0d21463be7540bf3b40bf243}
+      \strng{authorfullhash}{aa43becf0d21463be7540bf3b40bf243}
+      \strng{authorfullhashraw}{aa43becf0d21463be7540bf3b40bf243}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{Acesso em: 08 de junho de 2025}
+      \field{title}{NR 11 - Transporte, movimentação, armazenagem e manuseio de materiais}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/nr-11-atualizada-2016.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/nr-11-atualizada-2016.pdf
+      \endverb
+    \endentry
+    \entry{Budynas2016}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a6b6dba4b3eb93f36f681e53fc8f0273}{%
+           family={Budynas},
+           familyi={B\bibinitperiod},
+           given={Richard\bibnamedelima G},
+           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=25e557d0bf6de334ecbdd7d6f3597406}{%
+           family={Nisbett},
+           familyi={N\bibinitperiod},
+           given={J\bibnamedelima Keith},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Porto Alegre, RS}%
+      }
+      \list{publisher}{1}{%
+        {AMGH}%
+      }
+      \strng{namehash}{f038702b52cdf8b95c6507e54b9cad71}
+      \strng{fullhash}{f038702b52cdf8b95c6507e54b9cad71}
+      \strng{fullhashraw}{f038702b52cdf8b95c6507e54b9cad71}
+      \strng{bibnamehash}{f038702b52cdf8b95c6507e54b9cad71}
+      \strng{authorbibnamehash}{f038702b52cdf8b95c6507e54b9cad71}
+      \strng{authornamehash}{f038702b52cdf8b95c6507e54b9cad71}
+      \strng{authorfullhash}{f038702b52cdf8b95c6507e54b9cad71}
+      \strng{authorfullhashraw}{f038702b52cdf8b95c6507e54b9cad71}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{10}
+      \field{title}{Elementos de máquinas de Shigley}
+      \field{year}{2016}
+    \endentry
+    \entry{Callister2016}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=de98d4fe0566e26d10e550cc37f89128}{%
+           family={Callister},
+           familyi={C\bibinitperiod},
+           given={William\bibnamedelima D},
+           giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Rio de Janeiro, RJ}%
+      }
+      \list{publisher}{1}{%
+        {LTC}%
+      }
+      \strng{namehash}{de98d4fe0566e26d10e550cc37f89128}
+      \strng{fullhash}{de98d4fe0566e26d10e550cc37f89128}
+      \strng{fullhashraw}{de98d4fe0566e26d10e550cc37f89128}
+      \strng{bibnamehash}{de98d4fe0566e26d10e550cc37f89128}
+      \strng{authorbibnamehash}{de98d4fe0566e26d10e550cc37f89128}
+      \strng{authornamehash}{de98d4fe0566e26d10e550cc37f89128}
+      \strng{authorfullhash}{de98d4fe0566e26d10e550cc37f89128}
+      \strng{authorfullhashraw}{de98d4fe0566e26d10e550cc37f89128}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{9}
+      \field{title}{Ciência e engenharia de materiais: uma introdução}
+      \field{year}{2016}
+    \endentry
+    \entry{CORREAMARQUES2024}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=a87f557e6eda4e13639fa448c3a033d3}{%
+           family={{Correa Marques}},
+           familyi={C\bibinitperiod},
+           given={Sara},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f77d52975c5fefc4b54f7b3b508add56}{%
+           family={{Lima Molter}},
+           familyi={L\bibinitperiod},
+           given={Debora},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5d7ec5cd28ea59b18f0bc965d31663a0}{%
+           family={{dos S. Almeida}},
+           familyi={d\bibinitperiod},
+           given={Laryssa},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8cfedfa0ddb25d65992fe22eb07a125f}{%
+           family={{Silva dos Santos}},
+           familyi={S\bibinitperiod},
+           given={Dilson},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7f175c415c77c42aa22482053b602d95}
+      \strng{fullhash}{cb4e5889688f5ac8aeeeee6152c3fa5a}
+      \strng{fullhashraw}{cb4e5889688f5ac8aeeeee6152c3fa5a}
+      \strng{bibnamehash}{cb4e5889688f5ac8aeeeee6152c3fa5a}
+      \strng{authorbibnamehash}{cb4e5889688f5ac8aeeeee6152c3fa5a}
+      \strng{authornamehash}{7f175c415c77c42aa22482053b602d95}
+      \strng{authorfullhash}{cb4e5889688f5ac8aeeeee6152c3fa5a}
+      \strng{authorfullhashraw}{cb4e5889688f5ac8aeeeee6152c3fa5a}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Engineering Failure Analysis}
+      \field{title}{The influence of the experimental methodology on evaluating the hydrogen embrittlement susceptibility of AISI 4340 steel manufactured by different routes}
+      \field{volume}{162}
+      \field{year}{2024}
+      \field{pages}{108361}
+      \range{pages}{1}
+    \endentry
+    \entry{Crosby}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cefcb0dee1878eec366a260f1d993476}{%
+           family={Crosby},
+           familyi={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Crosby}%
+      }
+      \strng{namehash}{cefcb0dee1878eec366a260f1d993476}
+      \strng{fullhash}{cefcb0dee1878eec366a260f1d993476}
+      \strng{fullhashraw}{cefcb0dee1878eec366a260f1d993476}
+      \strng{bibnamehash}{cefcb0dee1878eec366a260f1d993476}
+      \strng{authorbibnamehash}{cefcb0dee1878eec366a260f1d993476}
+      \strng{authornamehash}{cefcb0dee1878eec366a260f1d993476}
+      \strng{authorfullhash}{cefcb0dee1878eec366a260f1d993476}
+      \strng{authorfullhashraw}{cefcb0dee1878eec366a260f1d993476}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{Acesso em: 08 de junho de 2025}
+      \field{title}{Crosby/Gunnebo Industries Metric online catalog}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://catalog.thecrosbygroup.com/metric-catalog-2022.html
+      \endverb
+      \verb{url}
+      \verb https://catalog.thecrosbygroup.com/metric-catalog-2022.html
+      \endverb
+    \endentry
+    \entry{GreenPin}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0d801ca175dce413e54aa77c56b7e454}{%
+           family={{Green Pin}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Green Pin}%
+      }
+      \strng{namehash}{0d801ca175dce413e54aa77c56b7e454}
+      \strng{fullhash}{0d801ca175dce413e54aa77c56b7e454}
+      \strng{fullhashraw}{0d801ca175dce413e54aa77c56b7e454}
+      \strng{bibnamehash}{0d801ca175dce413e54aa77c56b7e454}
+      \strng{authorbibnamehash}{0d801ca175dce413e54aa77c56b7e454}
+      \strng{authornamehash}{0d801ca175dce413e54aa77c56b7e454}
+      \strng{authorfullhash}{0d801ca175dce413e54aa77c56b7e454}
+      \strng{authorfullhashraw}{0d801ca175dce413e54aa77c56b7e454}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{Acesso em: 09 de maio de 2025}
+      \field{title}{Catálogo de produtos Green Pin}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.greenpin.com/sites/default/files/2021-12/PT_Green%20Pin%C2%AE%20Product%20Catalogo%202019.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.greenpin.com/sites/default/files/2021-12/PT_Green%20Pin%C2%AE%20Product%20Catalogo%202019.pdf
+      \endverb
+    \endentry
+    \entry{Hibbeler2009}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=84abf36e6f9b246bc47e872a123754f9}{%
+           family={Hibbeler},
+           familyi={H\bibinitperiod},
+           given={Russell\bibnamedelima Charles},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {São Paulo, SP}%
+      }
+      \list{publisher}{1}{%
+        {Pearson}%
+      }
+      \strng{namehash}{84abf36e6f9b246bc47e872a123754f9}
+      \strng{fullhash}{84abf36e6f9b246bc47e872a123754f9}
+      \strng{fullhashraw}{84abf36e6f9b246bc47e872a123754f9}
+      \strng{bibnamehash}{84abf36e6f9b246bc47e872a123754f9}
+      \strng{authorbibnamehash}{84abf36e6f9b246bc47e872a123754f9}
+      \strng{authornamehash}{84abf36e6f9b246bc47e872a123754f9}
+      \strng{authorfullhash}{84abf36e6f9b246bc47e872a123754f9}
+      \strng{authorfullhashraw}{84abf36e6f9b246bc47e872a123754f9}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{7}
+      \field{title}{Resistência dos materiais}
+      \field{year}{2009}
+    \endentry
+    \entry{Serope2020}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2ceab86d34976d5fd031d7dc70b96ba9}{%
+           family={Kalpakjian},
+           familyi={K\bibinitperiod},
+           given={Serope},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a25f01f35113fd4f3aed07e2ccfd5e48}{%
+           family={Schmid},
+           familyi={S\bibinitperiod},
+           given={Steven\bibnamedelima R.},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Pearson}%
+      }
+      \strng{namehash}{e720b4a63581e86e92751edcfed2e284}
+      \strng{fullhash}{e720b4a63581e86e92751edcfed2e284}
+      \strng{fullhashraw}{e720b4a63581e86e92751edcfed2e284}
+      \strng{bibnamehash}{e720b4a63581e86e92751edcfed2e284}
+      \strng{authorbibnamehash}{e720b4a63581e86e92751edcfed2e284}
+      \strng{authornamehash}{e720b4a63581e86e92751edcfed2e284}
+      \strng{authorfullhash}{e720b4a63581e86e92751edcfed2e284}
+      \strng{authorfullhashraw}{e720b4a63581e86e92751edcfed2e284}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{8}
+      \field{title}{Manufacturing Engineering and Technology}
+      \field{year}{2020}
+    \endentry
+    \entry{Giuseppe2016}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6457a8964c3323f3ca6fbdabe6ef0248}{%
+           family={Mirlisenna},
+           familyi={M\bibinitperiod},
+           given={Giuseppe},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {ESSS}%
+      }
+      \strng{namehash}{6457a8964c3323f3ca6fbdabe6ef0248}
+      \strng{fullhash}{6457a8964c3323f3ca6fbdabe6ef0248}
+      \strng{fullhashraw}{6457a8964c3323f3ca6fbdabe6ef0248}
+      \strng{bibnamehash}{6457a8964c3323f3ca6fbdabe6ef0248}
+      \strng{authorbibnamehash}{6457a8964c3323f3ca6fbdabe6ef0248}
+      \strng{authornamehash}{6457a8964c3323f3ca6fbdabe6ef0248}
+      \strng{authorfullhash}{6457a8964c3323f3ca6fbdabe6ef0248}
+      \strng{authorfullhashraw}{6457a8964c3323f3ca6fbdabe6ef0248}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{Acesso em: 09 de maio de 2025}
+      \field{title}{Método dos Elementos Finitos: o que é?}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://www.esss.com/blog/metodo-dos-elementos-finitos-o-que-e/
+      \endverb
+      \verb{url}
+      \verb https://www.esss.com/blog/metodo-dos-elementos-finitos-o-que-e/
+      \endverb
+    \endentry
+    \entry{Norton2013}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2280e219fe1a8b0ba3a2b0f4eac3337c}{%
+           family={Norton},
+           familyi={N\bibinitperiod},
+           given={Robert\bibnamedelima L.},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Porto Alegre}%
+      }
+      \list{publisher}{1}{%
+        {Bookman}%
+      }
+      \strng{namehash}{2280e219fe1a8b0ba3a2b0f4eac3337c}
+      \strng{fullhash}{2280e219fe1a8b0ba3a2b0f4eac3337c}
+      \strng{fullhashraw}{2280e219fe1a8b0ba3a2b0f4eac3337c}
+      \strng{bibnamehash}{2280e219fe1a8b0ba3a2b0f4eac3337c}
+      \strng{authorbibnamehash}{2280e219fe1a8b0ba3a2b0f4eac3337c}
+      \strng{authornamehash}{2280e219fe1a8b0ba3a2b0f4eac3337c}
+      \strng{authorfullhash}{2280e219fe1a8b0ba3a2b0f4eac3337c}
+      \strng{authorfullhashraw}{2280e219fe1a8b0ba3a2b0f4eac3337c}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{4}
+      \field{title}{Projeto de Máquinas: uma abordagem integrada}
+      \field{year}{2013}
+    \endentry
+    \entry{Filho2004}{thesis}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fb2481b2b33bac755bdae1c78043a1cd}{%
+           family={{Pinto Filho}},
+           familyi={P\bibinitperiod},
+           given={Rômulo\bibnamedelima Rossi},
+           giveni={R\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Universidade Federal de Uberlândia}%
+      }
+      \list{location}{1}{%
+        {Uberlândia}%
+      }
+      \strng{namehash}{fb2481b2b33bac755bdae1c78043a1cd}
+      \strng{fullhash}{fb2481b2b33bac755bdae1c78043a1cd}
+      \strng{fullhashraw}{fb2481b2b33bac755bdae1c78043a1cd}
+      \strng{bibnamehash}{fb2481b2b33bac755bdae1c78043a1cd}
+      \strng{authorbibnamehash}{fb2481b2b33bac755bdae1c78043a1cd}
+      \strng{authornamehash}{fb2481b2b33bac755bdae1c78043a1cd}
+      \strng{authorfullhash}{fb2481b2b33bac755bdae1c78043a1cd}
+      \strng{authorfullhashraw}{fb2481b2b33bac755bdae1c78043a1cd}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{bookpagination}{sheet}
+      \field{title}{Concepção, projeto e otimização de uma estrutura para aplicação em veículo de uso misto}
+      \field{type}{mathesis}
+      \field{year}{2004}
+      \field{pages}{187}
+      \range{pages}{1}
+    \endentry
+    \entry{RUD}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=30c14f48bd293b931d30341933d7d048}{%
+           family={RUD},
+           familyi={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {RUD}%
+      }
+      \strng{namehash}{30c14f48bd293b931d30341933d7d048}
+      \strng{fullhash}{30c14f48bd293b931d30341933d7d048}
+      \strng{fullhashraw}{30c14f48bd293b931d30341933d7d048}
+      \strng{bibnamehash}{30c14f48bd293b931d30341933d7d048}
+      \strng{authorbibnamehash}{30c14f48bd293b931d30341933d7d048}
+      \strng{authornamehash}{30c14f48bd293b931d30341933d7d048}
+      \strng{authorfullhash}{30c14f48bd293b931d30341933d7d048}
+      \strng{authorfullhashraw}{30c14f48bd293b931d30341933d7d048}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{Acesso em: 08 de junho de 2025}
+      \field{title}{Catálogo técnico: pontos de içamento}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.rud.com.br/pdf/catalogo-pontos-icamento.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.rud.com.br/pdf/catalogo-pontos-icamento.pdf
+      \endverb
+    \endentry
+    \entry{Souza2003}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dd562c127a80f61ff3f4a754c51d8b64}{%
+           family={Souza},
+           familyi={S\bibinitperiod},
+           given={Remo\bibnamedelima Magalhães},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Belém: Universidade Federal do Pará}%
+      }
+      \strng{namehash}{dd562c127a80f61ff3f4a754c51d8b64}
+      \strng{fullhash}{dd562c127a80f61ff3f4a754c51d8b64}
+      \strng{fullhashraw}{dd562c127a80f61ff3f4a754c51d8b64}
+      \strng{bibnamehash}{dd562c127a80f61ff3f4a754c51d8b64}
+      \strng{authorbibnamehash}{dd562c127a80f61ff3f4a754c51d8b64}
+      \strng{authornamehash}{dd562c127a80f61ff3f4a754c51d8b64}
+      \strng{authorfullhash}{dd562c127a80f61ff3f4a754c51d8b64}
+      \strng{authorfullhashraw}{dd562c127a80f61ff3f4a754c51d8b64}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{Acesso em: 09 de maio de 2025}
+      \field{title}{O método dos elementos finitos aplicado ao problema de condução de calor}
+      \field{year}{2003}
+      \verb{urlraw}
+      \verb https://www.inf.ufes.br/~luciac/fem/livros-fem/ApostilaElementosFinitosNiCAE.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.inf.ufes.br/~luciac/fem/livros-fem/ApostilaElementosFinitosNiCAE.pdf
+      \endverb
+    \endentry
+    \entry{Teixeira2010}{book}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=c08989157cb552521ff1456a96a70884}{%
+           family={Teixeira-Dias},
+           familyi={T\bibinithyphendelim D\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=da0e40abd5217fac12c9cff429868738}{%
+           family={Cruz},
+           familyi={C\bibinitperiod},
+           given={J.\bibnamedelimi Pinho},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0,
+           prefix={da},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=e86041b6c9538c03d910a478bc7b9be3}{%
+           family={Valente},
+           familyi={V\bibinitperiod},
+           given={R.A.\bibnamedelimi Fontes},
+           giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=36cabeb65f9ce066013c89161c308ef0}{%
+           family={Sousa},
+           familyi={S\bibinitperiod},
+           given={R.J.\bibnamedelimi Alves},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+      }
+      \list{location}{1}{%
+        {Aveiro}%
+      }
+      \list{publisher}{1}{%
+        {ETEP}%
+      }
+      \strng{namehash}{d34799a3b80caa0156f451f42916e81c}
+      \strng{fullhash}{7570125576aaa1810a68c3ed652a2504}
+      \strng{fullhashraw}{7570125576aaa1810a68c3ed652a2504}
+      \strng{bibnamehash}{7570125576aaa1810a68c3ed652a2504}
+      \strng{authorbibnamehash}{7570125576aaa1810a68c3ed652a2504}
+      \strng{authornamehash}{d34799a3b80caa0156f451f42916e81c}
+      \strng{authorfullhash}{7570125576aaa1810a68c3ed652a2504}
+      \strng{authorfullhashraw}{7570125576aaa1810a68c3ed652a2504}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Método dos Elementos Finitos – Técnicas de Simulação Numérica e Engenharia}
+      \field{year}{2010}
+    \endentry
+    \entry{Vaz2011}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=08cd4697d5b36e8c3bbb38f83ababaa0}{%
+           family={Vaz},
+           familyi={V\bibinitperiod},
+           given={Luiz\bibnamedelima Eloy},
+           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Rio de janeiro, RJ}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{08cd4697d5b36e8c3bbb38f83ababaa0}
+      \strng{fullhash}{08cd4697d5b36e8c3bbb38f83ababaa0}
+      \strng{fullhashraw}{08cd4697d5b36e8c3bbb38f83ababaa0}
+      \strng{bibnamehash}{08cd4697d5b36e8c3bbb38f83ababaa0}
+      \strng{authorbibnamehash}{08cd4697d5b36e8c3bbb38f83ababaa0}
+      \strng{authornamehash}{08cd4697d5b36e8c3bbb38f83ababaa0}
+      \strng{authorfullhash}{08cd4697d5b36e8c3bbb38f83ababaa0}
+      \strng{authorfullhashraw}{08cd4697d5b36e8c3bbb38f83ababaa0}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Método dos elementos finitos em análise de estruturas}
+      \field{year}{2011}
+    \endentry
+    \entry{ZHANG2017}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=cde52020ac39573dfe495a3c9b778aa3}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Weifang},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=201c368161deab54b55585b21b033e91}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Hongxun},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=266391912737839d7fe43edec9eb8a5a}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Jingyu},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9df66f26414e5a0bebb294d519fa5f56}{%
+           family={Dai},
+           familyi={D\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=52498e8fcbd2e894117364b3178d19f9}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Yuanxing},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8e91ed03785dd7271309d3a08570d24f}
+      \strng{fullhash}{67d2b02bb1e359f8b5e46e2841b1cd4c}
+      \strng{fullhashraw}{67d2b02bb1e359f8b5e46e2841b1cd4c}
+      \strng{bibnamehash}{67d2b02bb1e359f8b5e46e2841b1cd4c}
+      \strng{authorbibnamehash}{67d2b02bb1e359f8b5e46e2841b1cd4c}
+      \strng{authornamehash}{8e91ed03785dd7271309d3a08570d24f}
+      \strng{authorfullhash}{67d2b02bb1e359f8b5e46e2841b1cd4c}
+      \strng{authorfullhashraw}{67d2b02bb1e359f8b5e46e2841b1cd4c}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Metals}
+      \field{number}{6}
+      \field{title}{Brittle Fracture Behaviors of Large Die Holders Used in Hot Die Forging}
+      \field{volume}{7}
+      \field{year}{2017}
+      \field{pages}{198}
+      \range{pages}{1}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

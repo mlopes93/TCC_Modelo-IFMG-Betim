@@ -1,0 +1,217 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{ASMEB3026}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5ba344ec57814a8a4e387a7f67897733}{%
+           family={{American Society of Mechanical Engineers}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \strng{namehash}{5ba344ec57814a8a4e387a7f67897733}
+      \strng{fullhash}{5ba344ec57814a8a4e387a7f67897733}
+      \strng{fullhashraw}{5ba344ec57814a8a4e387a7f67897733}
+      \strng{bibnamehash}{5ba344ec57814a8a4e387a7f67897733}
+      \strng{authorbibnamehash}{5ba344ec57814a8a4e387a7f67897733}
+      \strng{authornamehash}{5ba344ec57814a8a4e387a7f67897733}
+      \strng{authorfullhash}{5ba344ec57814a8a4e387a7f67897733}
+      \strng{authorfullhashraw}{5ba344ec57814a8a4e387a7f67897733}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{ASME B30.26: Rigging hardware}
+      \field{type}{techreport}
+      \field{year}{2015}
+    \endentry
+    \entry{Crosby}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cefcb0dee1878eec366a260f1d993476}{%
+           family={Crosby},
+           familyi={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Crosby}%
+      }
+      \strng{namehash}{cefcb0dee1878eec366a260f1d993476}
+      \strng{fullhash}{cefcb0dee1878eec366a260f1d993476}
+      \strng{fullhashraw}{cefcb0dee1878eec366a260f1d993476}
+      \strng{bibnamehash}{cefcb0dee1878eec366a260f1d993476}
+      \strng{authorbibnamehash}{cefcb0dee1878eec366a260f1d993476}
+      \strng{authornamehash}{cefcb0dee1878eec366a260f1d993476}
+      \strng{authorfullhash}{cefcb0dee1878eec366a260f1d993476}
+      \strng{authorfullhashraw}{cefcb0dee1878eec366a260f1d993476}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{Acesso em: 08 de junho de 2025}
+      \field{title}{Crosby/Gunnebo Industries Metric online catalog}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://catalog.thecrosbygroup.com/metric-catalog-2022.html
+      \endverb
+      \verb{url}
+      \verb https://catalog.thecrosbygroup.com/metric-catalog-2022.html
+      \endverb
+    \endentry
+    \entry{GreenPin}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0d801ca175dce413e54aa77c56b7e454}{%
+           family={{Green Pin}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Green Pin}%
+      }
+      \strng{namehash}{0d801ca175dce413e54aa77c56b7e454}
+      \strng{fullhash}{0d801ca175dce413e54aa77c56b7e454}
+      \strng{fullhashraw}{0d801ca175dce413e54aa77c56b7e454}
+      \strng{bibnamehash}{0d801ca175dce413e54aa77c56b7e454}
+      \strng{authorbibnamehash}{0d801ca175dce413e54aa77c56b7e454}
+      \strng{authornamehash}{0d801ca175dce413e54aa77c56b7e454}
+      \strng{authorfullhash}{0d801ca175dce413e54aa77c56b7e454}
+      \strng{authorfullhashraw}{0d801ca175dce413e54aa77c56b7e454}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{Acesso em: 09 de maio de 2025}
+      \field{title}{Catálogo de produtos Green Pin}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.greenpin.com/sites/default/files/2021-12/PT_Green%20Pin%C2%AE%20Product%20Catalogo%202019.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.greenpin.com/sites/default/files/2021-12/PT_Green%20Pin%C2%AE%20Product%20Catalogo%202019.pdf
+      \endverb
+    \endentry
+    \entry{Hibbeler2009}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=84abf36e6f9b246bc47e872a123754f9}{%
+           family={Hibbeler},
+           familyi={H\bibinitperiod},
+           given={Russell\bibnamedelima Charles},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {São Paulo, SP}%
+      }
+      \list{publisher}{1}{%
+        {Pearson}%
+      }
+      \strng{namehash}{84abf36e6f9b246bc47e872a123754f9}
+      \strng{fullhash}{84abf36e6f9b246bc47e872a123754f9}
+      \strng{fullhashraw}{84abf36e6f9b246bc47e872a123754f9}
+      \strng{bibnamehash}{84abf36e6f9b246bc47e872a123754f9}
+      \strng{authorbibnamehash}{84abf36e6f9b246bc47e872a123754f9}
+      \strng{authornamehash}{84abf36e6f9b246bc47e872a123754f9}
+      \strng{authorfullhash}{84abf36e6f9b246bc47e872a123754f9}
+      \strng{authorfullhashraw}{84abf36e6f9b246bc47e872a123754f9}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{7}
+      \field{title}{Resistência dos materiais}
+      \field{year}{2009}
+    \endentry
+    \entry{Norton2013}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2280e219fe1a8b0ba3a2b0f4eac3337c}{%
+           family={Norton},
+           familyi={N\bibinitperiod},
+           given={Robert\bibnamedelima L.},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Porto Alegre}%
+      }
+      \list{publisher}{1}{%
+        {Bookman}%
+      }
+      \strng{namehash}{2280e219fe1a8b0ba3a2b0f4eac3337c}
+      \strng{fullhash}{2280e219fe1a8b0ba3a2b0f4eac3337c}
+      \strng{fullhashraw}{2280e219fe1a8b0ba3a2b0f4eac3337c}
+      \strng{bibnamehash}{2280e219fe1a8b0ba3a2b0f4eac3337c}
+      \strng{authorbibnamehash}{2280e219fe1a8b0ba3a2b0f4eac3337c}
+      \strng{authornamehash}{2280e219fe1a8b0ba3a2b0f4eac3337c}
+      \strng{authorfullhash}{2280e219fe1a8b0ba3a2b0f4eac3337c}
+      \strng{authorfullhashraw}{2280e219fe1a8b0ba3a2b0f4eac3337c}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{4}
+      \field{title}{Projeto de Máquinas: uma abordagem integrada}
+      \field{year}{2013}
+    \endentry
+    \entry{RUD}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=30c14f48bd293b931d30341933d7d048}{%
+           family={RUD},
+           familyi={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {RUD}%
+      }
+      \strng{namehash}{30c14f48bd293b931d30341933d7d048}
+      \strng{fullhash}{30c14f48bd293b931d30341933d7d048}
+      \strng{fullhashraw}{30c14f48bd293b931d30341933d7d048}
+      \strng{bibnamehash}{30c14f48bd293b931d30341933d7d048}
+      \strng{authorbibnamehash}{30c14f48bd293b931d30341933d7d048}
+      \strng{authornamehash}{30c14f48bd293b931d30341933d7d048}
+      \strng{authorfullhash}{30c14f48bd293b931d30341933d7d048}
+      \strng{authorfullhashraw}{30c14f48bd293b931d30341933d7d048}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{Acesso em: 08 de junho de 2025}
+      \field{title}{Catálogo técnico: pontos de içamento}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.rud.com.br/pdf/catalogo-pontos-icamento.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.rud.com.br/pdf/catalogo-pontos-icamento.pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
