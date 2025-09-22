@@ -1,4 +1,5 @@
 # Template IFMG Campus Betim
+# Adaptado do modelo CEFET
 
 ![Capa](./Imagens/Capa.png)
 
@@ -11,7 +12,7 @@ Esse repositório consiste no template latex que atende as normas oficiais da [B
 NÃO RECOMENDADO, o site está passando por redução de tempo de compilação para o plano GRATUITO.
 
 ### Local
-Para utilizar localmente, verifique-se possui o pacote `texlive-full` instalado no seu sistema derivado do [Debian](https://www.debian.org/), ou o equivalente em outros sistemas operacionais. 
+Para utilizar localmente, verifique-se possui o pacote `texlive-full` instalado no seu sistema derivado do [Debian](https://www.debian.org/), ou o equivalente em outros sistemas operacionais.
 
 #### Visual Studio Code
 Recomenda-se a extensão [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) juntamente com a [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-portuguese-brazilian) para o [Visual Studio Code](https://code.visualstudio.com/) com a seguinte configuração.
